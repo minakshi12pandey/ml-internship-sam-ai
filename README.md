@@ -30,15 +30,15 @@ python task4_credit_card_fraud_detection.py
 - **Task 4:** Fraud is rare, so accuracy is misleading. Class weights handle the imbalance, and models are judged on precision, recall and F1 for the fraud class.
 
 ## Results
-Fill in the numbers after running each script on the real dataset.
+Results from running each script on the real datasets.
 
 | Project | Model | Result |
 |---------|-------|--------|
 | Spam SMS Detection | Naive Bayes | Accuracy: 96.9% |
 | Spam SMS Detection | Logistic Regression | Accuracy: 96.8% |
 | Sentiment Analysis | Logistic Regression | Accuracy: 97% |
-| Fraud Detection | Logistic Regression | Precision: [X] / Recall: [X] / F1: [X] |
-| Fraud Detection | Random Forest | Precision: [X] / Recall: [X] / F1: [X] |
+| Fraud Detection | Logistic Regression | Precision: 0.96 / Recall: 0.92 / F1: 0.11 |
+| Fraud Detection | Random Forest | Precision: 0.96/ Recall: 0.76 / F1: 0.85 |
 
 ## Author
 Minakshi Pandey | https://www.linkedin.com/in/contactminakshipandey | Internship: SAM AI Technologies
