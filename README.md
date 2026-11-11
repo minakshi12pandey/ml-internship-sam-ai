@@ -36,9 +36,9 @@ Results from running each script on the real datasets.
 |---------|-------|--------|
 | Spam SMS Detection | Naive Bayes | Accuracy: 96.9% |
 | Spam SMS Detection | Logistic Regression | Accuracy: 96.8% |
-| Sentiment Analysis | Logistic Regression | Accuracy: 97% |
-| Fraud Detection | Logistic Regression | Precision: 0.96 / Recall: 0.92 / F1: 0.11 |
-| Fraud Detection | Random Forest | Precision: 0.96/ Recall: 0.76 / F1: 0.85 |
+| Sentiment Analysis | Logistic Regression | Accuracy: 89.1% |
+| Fraud Detection | Logistic Regression | Precision: 0.06 / Recall: 0.92 / F1: 0.11 |
+| Fraud Detection | Random Forest | Precision: 0.96 / Recall: 0.76 / F1: 0.85 |
 
 ## Author
 Minakshi Pandey | https://www.linkedin.com/in/contactminakshipandey | Internship: SAM AI Technologies
