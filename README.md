@@ -34,8 +34,8 @@ Fill in the numbers after running each script on the real dataset.
 
 | Project | Model | Result |
 |---------|-------|--------|
-| Spam SMS Detection | Naive Bayes | Accuracy: 97% |
-| Spam SMS Detection | Logistic Regression | Accuracy: 97% |
+| Spam SMS Detection | Naive Bayes | Accuracy: 96.9% |
+| Spam SMS Detection | Logistic Regression | Accuracy: 96.8% |
 | Sentiment Analysis | Logistic Regression | Accuracy: 97% |
 | Fraud Detection | Logistic Regression | Precision: [X] / Recall: [X] / F1: [X] |
 | Fraud Detection | Random Forest | Precision: [X] / Recall: [X] / F1: [X] |
